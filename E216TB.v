@@ -23,7 +23,7 @@ reg mux_sel;
 
 reg [42:0] newdatain;
 //assign newdatain = {configIn, controlIn};
-
+//Test 2
 MEM_Comp MEM_Comp_i
      (.ComputeDataIn(dataIn),
       .clk(clk),
