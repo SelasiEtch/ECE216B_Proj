@@ -18,7 +18,7 @@ reg valid;
 reg writeEn;
 
 reg mux_sel;
-
+//k
 //reg [42:0] newdatain;
 
 reg [42:0] newdatain;
